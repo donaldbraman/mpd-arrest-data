@@ -3,10 +3,10 @@
 This repository contains arrest report PDFs from the Metropolitan Police Department (MPD) of Washington, DC.
 
 ## Data Overview
-- **Time Period**: October 2019 - July 2025
+- **Time Period**: October 2019 - August 2025
 - **Districts**: 1D, 2D, 3D, 4D, 5D, 6D, 7D
-- **Total PDFs**: ~5,279 files
-- **Total Size**: ~241 MB
+- **Total PDFs**: ~5,816 files
+- **Total Size**: ~266 MB
 - **Storage**: Git LFS (Large File Storage)
 - **Last Updated**: August 5, 2025
 
@@ -66,9 +66,12 @@ git lfs pull --include="*/1D-arrest-202403*.pdf"  # Just March 2024 from 1D
 
 ## Data Observations
 - **District 1D**: Data through April 2025
-- **District 6D**: Data through July 2025
-- **District 7D**: Data through June 2025
-- **Districts 2D-5D**: Data collection appears to have stopped in late 2020/early 2021
+- **District 2D**: Data through August 4, 2025 (resumed after 2021 gap)
+- **District 3D**: Data through August 4, 2025 (resumed after 2021 gap)
+- **District 4D**: Data through August 4, 2025 (continuous since 2021)
+- **District 5D**: Data through August 4, 2025 (resumed after 2021 gap)
+- **District 6D**: Data through July 1, 2025
+- **District 7D**: Data through June 18, 2025
 - **Format Change**: Starting in 2021, District 1D adopted a new thread-based naming format
 
 ## License
