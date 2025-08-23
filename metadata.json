@@ -3,49 +3,49 @@
     "name": "MPD Arrest Report Data",
     "description": "Metropolitan Police Department arrest report PDFs from all seven districts",
     "source": "Official MPD Google Groups",
-    "last_updated": "2025-08-05",
-    "total_pdfs": 2100
+    "last_updated": "2025-08-23",
+    "total_pdfs": 4642
   },
   "districts": {
     "1D": {
-      "pdf_count": 218,
+      "pdf_count": 838,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-1d",
       "threads_used": 3
     },
     "2D": {
-      "pdf_count": 262,
+      "pdf_count": 570,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-2d",
       "threads_used": 4
     },
     "3D": {
-      "pdf_count": 298,
+      "pdf_count": 586,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-3d",
       "threads_used": 3
     },
     "4D": {
-      "pdf_count": 511,
+      "pdf_count": 898,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-4d",
       "threads_used": 3,
       "note": "Contains many incorrectly parsed future dates (2025) that need correction"
     },
     "5D": {
-      "pdf_count": 300,
+      "pdf_count": 586,
       "date_range": "2019-10-22 to 2020-11-30",
       "google_group": "https://groups.google.com/g/official-mpd-5d",
       "threads_used": 3
     },
     "6D": {
-      "pdf_count": 211,
+      "pdf_count": 593,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-6d",
       "threads_used": 3
     },
     "7D": {
-      "pdf_count": 300,
+      "pdf_count": 597,
       "date_range": "2019-10-22 to 2024-09-19",
       "google_group": "https://groups.google.com/g/official-mpd-7d",
       "threads_used": 3
