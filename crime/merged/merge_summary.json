@@ -1,0 +1,93 @@
+{
+  "generated_at": "2025-08-28T14:39:42.739304",
+  "years_processed": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "total_records": 200133,
+  "total_size_mb": 22.87,
+  "year_details": [
+    {
+      "year": 2019,
+      "records": 34099,
+      "file_size_mb": 3.52,
+      "csv_records": 33969,
+      "pdf_records": 5138,
+      "matched_records": 5008,
+      "has_arrest_data": 5138,
+      "weapon_involved": 216,
+      "violent_crimes": 4176
+    },
+    {
+      "year": 2020,
+      "records": 28386,
+      "file_size_mb": 3.65,
+      "csv_records": 27931,
+      "pdf_records": 12277,
+      "matched_records": 11822,
+      "has_arrest_data": 12277,
+      "weapon_involved": 983,
+      "violent_crimes": 4005
+    },
+    {
+      "year": 2021,
+      "records": 28740,
+      "file_size_mb": 3.55,
+      "csv_records": 28321,
+      "pdf_records": 11595,
+      "matched_records": 11176,
+      "has_arrest_data": 11595,
+      "weapon_involved": 947,
+      "violent_crimes": 4113
+    },
+    {
+      "year": 2022,
+      "records": 27325,
+      "file_size_mb": 2.75,
+      "csv_records": 27162,
+      "pdf_records": 4100,
+      "matched_records": 3937,
+      "has_arrest_data": 4100,
+      "weapon_involved": 174,
+      "violent_crimes": 3834
+    },
+    {
+      "year": 2023,
+      "records": 34422,
+      "file_size_mb": 3.62,
+      "csv_records": 34235,
+      "pdf_records": 4919,
+      "matched_records": 4732,
+      "has_arrest_data": 4919,
+      "weapon_involved": 149,
+      "violent_crimes": 5331
+    },
+    {
+      "year": 2024,
+      "records": 29855,
+      "file_size_mb": 3.49,
+      "csv_records": 29286,
+      "pdf_records": 10118,
+      "matched_records": 9549,
+      "has_arrest_data": 10118,
+      "weapon_involved": 416,
+      "violent_crimes": 3466
+    },
+    {
+      "year": 2025,
+      "records": 17306,
+      "file_size_mb": 2.29,
+      "csv_records": 16813,
+      "pdf_records": 8704,
+      "matched_records": 8211,
+      "has_arrest_data": 8704,
+      "weapon_involved": 410,
+      "violent_crimes": 1678
+    }
+  ]
+}
