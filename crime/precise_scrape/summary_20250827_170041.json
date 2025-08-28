@@ -1,0 +1,152 @@
+{
+  "threads": [
+    {
+      "district": "1D",
+      "thread_id": "GGYM5d-Rum8",
+      "url": "https://groups.google.com/g/official-mpd-1d/c/GGYM5d-Rum8",
+      "expected_pdfs": 650,
+      "scraped_at": "2025-08-27T16:42:05.315977",
+      "pdfs_found": 76,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "2D",
+      "thread_id": "3aBbedVe0RU",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/3aBbedVe0RU",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:44:08.415874",
+      "pdfs_found": 56,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "2D",
+      "thread_id": "JPOW2j8WkrY",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/JPOW2j8WkrY",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:46:10.742985",
+      "pdfs_found": 166,
+      "status": "no_alert",
+      "messages_found": 621
+    },
+    {
+      "district": "2D",
+      "thread_id": "lJLbtRCacrI",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/lJLbtRCacrI",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:48:10.779495",
+      "pdfs_found": 42,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "3D",
+      "thread_id": "9cWuo9Qr1Z8",
+      "url": "https://groups.google.com/g/official-mpd-3d/c/9cWuo9Qr1Z8",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:50:11.363578",
+      "pdfs_found": 100,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "3D",
+      "thread_id": "qQsmz-qitbA",
+      "url": "https://groups.google.com/g/official-mpd-3d/c/qQsmz-qitbA",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:52:11.636468",
+      "pdfs_found": 100,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "4D",
+      "thread_id": "ECfMjwLTKr8",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/ECfMjwLTKr8",
+      "expected_pdfs": 900,
+      "scraped_at": "2025-08-27T16:54:11.852668",
+      "pdfs_found": 100,
+      "status": "no_alert",
+      "messages_found": 200
+    },
+    {
+      "district": "4D",
+      "thread_id": "SeEIVrs_jh4",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/SeEIVrs_jh4",
+      "expected_pdfs": 900,
+      "scraped_at": "2025-08-27T16:56:15.125117",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "status": "error"
+    },
+    {
+      "district": "4D",
+      "thread_id": "sunBNoczKiw",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/sunBNoczKiw",
+      "expected_pdfs": 900,
+      "scraped_at": "2025-08-27T16:57:11.035931",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10201be10>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "5D",
+      "thread_id": "NjaP_UxURC4",
+      "url": "https://groups.google.com/g/official-mpd-5d/c/NjaP_UxURC4",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:57:41.042576",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f0d10>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "5D",
+      "thread_id": "Qngr4ne3fJg",
+      "url": "https://groups.google.com/g/official-mpd-5d/c/Qngr4ne3fJg",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:58:11.053157",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f16a0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "6D",
+      "thread_id": "fA8hn9DS_yc",
+      "url": "https://groups.google.com/g/official-mpd-6d/c/fA8hn9DS_yc",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:58:41.067088",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f2030>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "6D",
+      "thread_id": "xvNZcl_wcls",
+      "url": "https://groups.google.com/g/official-mpd-6d/c/xvNZcl_wcls",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:59:11.077372",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f29c0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "7D",
+      "thread_id": "-5qcbOsQMEk",
+      "url": "https://groups.google.com/g/official-mpd-7d/c/-5qcbOsQMEk",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T16:59:41.089717",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f3350>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    },
+    {
+      "district": "7D",
+      "thread_id": "ehyIZPAMBHo",
+      "url": "https://groups.google.com/g/official-mpd-7d/c/ehyIZPAMBHo",
+      "expected_pdfs": 800,
+      "scraped_at": "2025-08-27T17:00:11.102102",
+      "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1020a3680>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+      "status": "error"
+    }
+  ],
+  "summary": {
+    "total_threads": 15,
+    "successful": 0,
+    "partial": 0,
+    "total_pdfs": 640
+  }
+}

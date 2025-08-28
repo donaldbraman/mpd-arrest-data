@@ -1,0 +1,9 @@
+{
+  "district": "4D",
+  "thread_id": "SeEIVrs_jh4",
+  "url": "https://groups.google.com/g/official-mpd-4d/c/SeEIVrs_jh4",
+  "expected_pdfs": 900,
+  "scraped_at": "2025-08-27T16:56:15.125117",
+  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "status": "error"
+}

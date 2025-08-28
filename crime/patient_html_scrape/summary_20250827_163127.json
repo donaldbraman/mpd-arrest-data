@@ -1,0 +1,118 @@
+{
+  "threads": [
+    {
+      "district": "1D",
+      "thread_id": "GGYM5d-Rum8",
+      "url": "https://groups.google.com/g/official-mpd-1d/c/GGYM5d-Rum8",
+      "scraped_at": "2025-08-27T16:03:40.566349",
+      "pdfs_found": 76,
+      "messages_found": 200
+    },
+    {
+      "district": "2D",
+      "thread_id": "3aBbedVe0RU",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/3aBbedVe0RU",
+      "scraped_at": "2025-08-27T16:08:33.297396",
+      "pdfs_found": 56,
+      "messages_found": 200
+    },
+    {
+      "district": "2D",
+      "thread_id": "JPOW2j8WkrY",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/JPOW2j8WkrY",
+      "scraped_at": "2025-08-27T16:13:32.709648",
+      "pdfs_found": 166,
+      "messages_found": 621
+    },
+    {
+      "district": "2D",
+      "thread_id": "lJLbtRCacrI",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/lJLbtRCacrI",
+      "scraped_at": "2025-08-27T16:18:24.006156",
+      "error": "Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=134.0.6998.45); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85e30 cxxbridge1$string$len + 92928\n3   chromedriver                        0x0000000100c6ef28 chromedriver + 192296\n4   chromedriver                        0x0000000100c92800 cxxbridge1$string$len + 144592\n5   chromedriver                        0x0000000100cf5558 cxxbridge1$string$len + 549416\n6   chromedriver                        0x0000000100d0e0f8 cxxbridge1$string$len + 650696\n7   chromedriver                        0x0000000100cc12fc cxxbridge1$string$len + 335820\n8   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n9   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n10  chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n11  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n12  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n13  chromedriver                        0x0000000101123f58 cxxbridge1$str$ptr + 2695100\n14  chromedriver                        0x00000001011240e0 cxxbridge1$str$ptr + 2695492\n15  chromedriver                        0x0000000101133910 cxxbridge1$str$ptr + 2759028\n16  libsystem_pthread.dylib             0x000000018917bc0c _pthread_start + 136\n17  libsystem_pthread.dylib             0x0000000189176b80 thread_start + 8\n"
+    },
+    {
+      "district": "3D",
+      "thread_id": "9cWuo9Qr1Z8",
+      "url": "https://groups.google.com/g/official-mpd-3d/c/9cWuo9Qr1Z8",
+      "scraped_at": "2025-08-27T16:25:57.431779",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "3D",
+      "thread_id": "qQsmz-qitbA",
+      "url": "https://groups.google.com/g/official-mpd-3d/c/qQsmz-qitbA",
+      "scraped_at": "2025-08-27T16:26:27.443868",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "4D",
+      "thread_id": "ECfMjwLTKr8",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/ECfMjwLTKr8",
+      "scraped_at": "2025-08-27T16:26:57.455197",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "4D",
+      "thread_id": "SeEIVrs_jh4",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/SeEIVrs_jh4",
+      "scraped_at": "2025-08-27T16:27:27.467758",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "4D",
+      "thread_id": "sunBNoczKiw",
+      "url": "https://groups.google.com/g/official-mpd-4d/c/sunBNoczKiw",
+      "scraped_at": "2025-08-27T16:27:57.477265",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "5D",
+      "thread_id": "NjaP_UxURC4",
+      "url": "https://groups.google.com/g/official-mpd-5d/c/NjaP_UxURC4",
+      "scraped_at": "2025-08-27T16:28:27.483827",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "5D",
+      "thread_id": "Qngr4ne3fJg",
+      "url": "https://groups.google.com/g/official-mpd-5d/c/Qngr4ne3fJg",
+      "scraped_at": "2025-08-27T16:28:57.491827",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "6D",
+      "thread_id": "fA8hn9DS_yc",
+      "url": "https://groups.google.com/g/official-mpd-6d/c/fA8hn9DS_yc",
+      "scraped_at": "2025-08-27T16:29:27.503411",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "6D",
+      "thread_id": "xvNZcl_wcls",
+      "url": "https://groups.google.com/g/official-mpd-6d/c/xvNZcl_wcls",
+      "scraped_at": "2025-08-27T16:29:57.514211",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "7D",
+      "thread_id": "-5qcbOsQMEk",
+      "url": "https://groups.google.com/g/official-mpd-7d/c/-5qcbOsQMEk",
+      "scraped_at": "2025-08-27T16:30:27.520626",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    },
+    {
+      "district": "7D",
+      "thread_id": "ehyIZPAMBHo",
+      "url": "https://groups.google.com/g/official-mpd-7d/c/ehyIZPAMBHo",
+      "scraped_at": "2025-08-27T16:30:57.527152",
+      "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n0   chromedriver                        0x000000010113b6c8 cxxbridge1$str$ptr + 2791212\n1   chromedriver                        0x0000000101133c9c cxxbridge1$str$ptr + 2759936\n2   chromedriver                        0x0000000100c85ca4 cxxbridge1$string$len + 92532\n3   chromedriver                        0x0000000100cc0674 cxxbridge1$string$len + 332612\n4   chromedriver                        0x0000000100ce8ecc cxxbridge1$string$len + 498588\n5   chromedriver                        0x0000000100ce81cc cxxbridge1$string$len + 495260\n6   chromedriver                        0x0000000100c55c60 chromedriver + 89184\n7   chromedriver                        0x00000001011006c4 cxxbridge1$str$ptr + 2549544\n8   chromedriver                        0x0000000101103988 cxxbridge1$str$ptr + 2562540\n9   chromedriver                        0x00000001010e071c cxxbridge1$str$ptr + 2418560\n10  chromedriver                        0x00000001011041e8 cxxbridge1$str$ptr + 2564684\n11  chromedriver                        0x00000001010d1750 cxxbridge1$str$ptr + 2357172\n12  chromedriver                        0x0000000100c5465c chromedriver + 83548\n13  dyld                                0x0000000188ddab98 start + 6076\n"
+    }
+  ],
+  "summary": {
+    "total_threads": 15,
+    "successful": 3,
+    "total_messages": 1021,
+    "total_pdfs": 298
+  }
+}

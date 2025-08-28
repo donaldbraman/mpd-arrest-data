@@ -1,0 +1,30 @@
+{
+  "analysis_date": "2025-08-28T13:25:36.074455",
+  "csv_unique_fields": [
+    "LATITUDE",
+    "LONGITUDE",
+    "X",
+    "Y",
+    "BLOCK_GROUP",
+    "CENSUS_TRACT",
+    "NEIGHBORHOOD_CLUSTER",
+    "VOTING_PRECINCT",
+    "ANC",
+    "BID",
+    "SHIFT"
+  ],
+  "pdf_unique_fields": [
+    "weapon",
+    "location_type",
+    "hour",
+    "offense_category",
+    "parsed_time",
+    "ccn_formatted"
+  ],
+  "common_identifier": "CCN",
+  "matching_records": 54414,
+  "csv_coverage": "2010-2025",
+  "pdf_coverage": "2019-2025 (with gaps)",
+  "csv_focus": "All reported incidents",
+  "pdf_focus": "Arrests and clearances"
+}

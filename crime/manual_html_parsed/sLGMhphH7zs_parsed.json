@@ -1,0 +1,44 @@
+{
+  "html_file": "Preliminary Crime Report for 1D sLGMhphH7zs.html",
+  "file_size_mb": 6.210803031921387,
+  "thread_info": {
+    "title": "Preliminary Crime Report for 1D",
+    "thread_id": "sLGMhphH7zs",
+    "district": "1D",
+    "system": "official-mpd"
+  },
+  "total_messages": 2,
+  "total_pdfs": 1,
+  "date_range": {
+    "earliest": "2019-01-10",
+    "latest": "2024-06-07",
+    "total_dates": 997,
+    "years_covered": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  "messages": [
+    {
+      "text_preview": "Conversations All groups and messages Global settings Send feedback to Google Help Training Groups Groups this.gbar_=this.gbar_||{};(function(_){var window=this; try{ _.Ed=function(a,b,c){if(!a.j)if(c instanceof Array)for(var d of c)_.Ed(a,b,d);else{d=(0,_.z)(a.C,a,b);const e=a.v+c;a.v++;b.dataset.eqid=e;a.B[e]=d;b&&b.addEventListener?b.addEventListener(c,d,!1):b&&b.attachEvent?b.attachEvent(\"on\"+c,d):a.o.log(Error(\"t`\"+b))}}; }catch(e){_._DumpException(e)} try{ var Fd=document.querySelector(\".g",
+      "full_length": 35051,
+      "has_date": false
+    },
+    {
+      "text_preview": "\ue946 mpd.cog...@dc.gov Aug 25, 2021, 10:15:18 AM 8/25/21 \ue83a You need an HTML-capable reader to read this message. mpd.cog...@dc.gov Aug 26, 2021, 7:45:30 AM 8/26/21 \ue83a You need an HTML-capable reader to read this message. mpd.cog...@dc.gov Aug 27, 2021, 7:45:11 AM 8/27/21 \ue83a You need an HTML-capable reader to read this message. mpd.cog...@dc.gov Aug 28, 2021, 7:45:13 AM 8/28/21 \ue83a You need an HTML-capable reader to read this message. mpd.cog...@dc.gov Aug 29, 2021, 7:45:20 AM 8/29/21 \ue83a You need an HTML",
+      "full_length": 106844,
+      "has_date": false
+    }
+  ],
+  "pdf_links": [
+    {
+      "url": "https://groups.google.com/group/Official-MPD-1D/attach/1134db825ce77/ListServ%20Daily%20CRIME%20Report-2024-06-07.pdf?part=0.1",
+      "text": "Crime Report PDF",
+      "date": "24-06-07",
+      "filename": "ListServ%20Daily%20CRIME%20Report-2024-06-07.pdf"
+    }
+  ]
+}

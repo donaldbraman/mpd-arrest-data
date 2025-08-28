@@ -1,0 +1,9 @@
+{
+  "district": "6D",
+  "thread_id": "xvNZcl_wcls",
+  "url": "https://groups.google.com/g/official-mpd-6d/c/xvNZcl_wcls",
+  "expected_pdfs": 800,
+  "scraped_at": "2025-08-27T16:59:11.077372",
+  "error": "HTTPConnectionPool(host='localhost', port=65426): Max retries exceeded with url: /session/ea8f111a1faedda0567abf40e3a441ba/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1022f29c0>: Failed to establish a new connection: [Errno 61] Connection refused'))",
+  "status": "error"
+}

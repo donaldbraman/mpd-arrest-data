@@ -1,0 +1,41 @@
+{
+  "generated_at": "2025-08-28T11:04:48.880788",
+  "total_records": 56829,
+  "date_range": {
+    "start": "2019-10-05",
+    "end": "2025-08-24"
+  },
+  "records_by_year": {
+    "2020": 12271,
+    "2021": 11585,
+    "2024": 10114,
+    "2025": 8702,
+    "2019": 5138,
+    "2023": 4919,
+    "2022": 4100
+  },
+  "records_by_district": {
+    "4D": 13209,
+    "2D": 11478,
+    "6D": 7987,
+    "1D": 7582,
+    "3D": 5838,
+    "5D": 5677,
+    "7D": 5058
+  },
+  "data_sources": [
+    {
+      "name": "original_parser",
+      "records": 71361
+    },
+    {
+      "name": "unified_parser",
+      "records": 38301
+    }
+  ],
+  "deduplication_stats": {
+    "before": 109662,
+    "after": 56829,
+    "removed": 52833
+  }
+}

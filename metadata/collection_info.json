@@ -1,0 +1,14 @@
+{
+  "restructure_date": "2025-08-25T21:43:49.714054",
+  "total_districts": 7,
+  "data_sources": [
+    "google_groups_threads"
+  ],
+  "collection_method": "automated_scraping",
+  "repository_structure": {
+    "arrests/": "District-organized arrest PDFs from threads",
+    "crime/": "Thread-organized crime PDFs (to be migrated)",
+    "metadata/": "Collection and processing metadata",
+    "archived/": "Original directory structure preserved"
+  }
+}

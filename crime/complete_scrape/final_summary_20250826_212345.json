@@ -1,0 +1,19 @@
+{
+  "threads": [
+    {
+      "district": "2D",
+      "thread_id": "sW9-ZoUdr6I",
+      "url": "https://groups.google.com/g/official-mpd-2d/c/sW9-ZoUdr6I",
+      "messages_loaded": 773,
+      "pdfs_found": 762,
+      "pdfs_downloaded": 760,
+      "scraped_at": "2025-08-26T21:23:14.906753"
+    }
+  ],
+  "summary": {
+    "threads_scraped": 1,
+    "total_messages": 2218,
+    "total_pdfs": 2203,
+    "total_downloaded": 2201
+  }
+}

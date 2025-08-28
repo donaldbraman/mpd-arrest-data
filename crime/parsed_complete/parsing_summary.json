@@ -1,0 +1,35 @@
+{
+  "total_records": 38301,
+  "unique_ccns": 38101,
+  "date_range": {
+    "earliest": "2019-10-05",
+    "latest": "2024-09-28"
+  },
+  "by_district": {
+    "4D": 11044,
+    "2D": 10671,
+    "6D": 5148,
+    "1D": 4051,
+    "7D": 3358,
+    "3D": 2039,
+    "5D": 1990
+  },
+  "by_year": {
+    "2019": 5141,
+    "2020": 12276,
+    "2021": 10914,
+    "2022": 4276,
+    "2023": 3936,
+    "2024": 1758
+  },
+  "by_offense_category": {
+    "THEFT_FROM_AUTO": 29768,
+    "ROBBERY": 3778,
+    "ASSAULT_WITH_WEAPON": 2632,
+    "BURGLARY": 1675,
+    "HOMICIDE": 270,
+    "SEX_OFFENSE": 169,
+    "ARSON": 8
+  },
+  "missing_fields": {
+    "ccn": 
